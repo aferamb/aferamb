@@ -1,16 +1,25 @@
-## Hello there 👋
+# Hello there 👋
 
-<!--
-**aferamb/aferamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently studing 2º grade of computer engineering, (informática pa' los amigos).<br>I'm always doing something —not always here, jeje— and constantly looking for something new to learn or do.<br><br>If you want to know more you need to ask first.<br><br>Better questions lead to better answers.<br><br><br>✨Fun fact: My cat knows object-oriented programming and Java ✨
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alejandro-fern%C3%A1ndez-ambr%C3%B3s-15765827b/) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aferamb&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aferamb&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aferamb&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aferamb&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aferamb&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aferamb&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
