@@ -13,12 +13,6 @@ Currently studing 3º grade of computer engineering, (informática pa' los amigo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aferamb&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aferamb&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aferamb&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aferamb&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=aferamb&icon=0&color=0)](https://visitcount.itsvg.in)
 
