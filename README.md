@@ -17,3 +17,6 @@ Currently studing 3º grade of computer engineering, (informática pa' los amigo
 [![](https://visitcount.itsvg.in/api?id=aferamb&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
