@@ -1,6 +1,6 @@
 # Hello there 👋
 
-Currently studing 3º grade of computer engineering, (informática pa' los amigos).<br>I'm always doing something —not always here, jeje— and constantly looking for something new to learn or do.<br><br>If you want to know more you need to ask first.<br><br>Better questions lead to better answers.<br><br><br>✨Fun fact: My cat knows object-oriented programming and Java ✨
+Currently studing 4º grade of computer engineering, (informática pa' los amigos).<br>I'm always doing something —not always here, jeje— and constantly looking for something new to learn or do.<br><br>If you want to know more you need to ask first.<br><br>Better questions lead to better answers.<br><br><br>✨Fun fact: My cat knows object-oriented programming and Java ✨
 
 
 ## 🌐 Socials:
